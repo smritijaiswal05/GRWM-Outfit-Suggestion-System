@@ -1,0 +1,7 @@
+Backend/.env
+Backend/venv/
+Backend/static/
+Backend/__pycache__/
+Backend/app_ai_restart.log
+frontend/node_modules/
+frontend/.env
